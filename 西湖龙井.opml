@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<opml version="2.0">
-<head>
-<title>西湖龙井</title>
-</head>
-<body>
+<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body><outline text="ios" title="ios" >
 <outline text="TG&amp;YT" title="TG&amp;YT">
 <outline title="Digital" xmlUrl="https://yian.vercel.app/telegram/channel/Licensesss/" htmlUrl="https://t.me/s/Licensesss" text="Digital" type="rss" />
 <outline title="Duyao" htmlUrl="https://t.me/s/DuyaoSS" type="rss" text="Duyao" xmlUrl="https://yian.vercel.app/telegram/channel/DuyaoSS" />
